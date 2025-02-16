@@ -50,15 +50,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-### 🔹 Creative & Multimedia Tools
-
-![Illustrator](https://img.shields.io/badge/-Illustrator-320000?style=for-the-badge&logo=adobe-illustrator&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-001e36?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
-![DaVinci Resolve](https://img.shields.io/badge/-Davinci-262626?style=for-the-badge&logo=Davinci-Resolve&logoColor=white)&nbsp;
-![After Effects](https://img.shields.io/badge/-AfterEffects-01005a?style=for-the-badge&logo=adobe-after-effects&logoColor=white)&nbsp;
-
----
-
-🚀 **Always learning, always growing.** Let's collaborate on exciting projects and push the boundaries of technology!
-
