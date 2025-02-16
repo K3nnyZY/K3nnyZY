@@ -16,7 +16,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=K3nnyZY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="K3nnyZY" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3nnyZY&layout=donut&theme=midnight-purple)
 
 ## 🛠 &nbsp;Tech Stack
 
