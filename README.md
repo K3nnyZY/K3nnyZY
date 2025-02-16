@@ -13,9 +13,9 @@
 ---
 | <a href="https://github.com/K3nnyZY/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K3nnyZY&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="K3nnyZY's github stats" /></a> | <a href="https://github.com/K3nnyZY/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nnyZY&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-## 🛠 &nbsp;Tech Stack
+## 🧑🏻‍💻 &nbsp;Tech Stack
 
-### 🔹 Programming Languages
+### 🟪 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -25,7 +25,7 @@
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### 🔹 Data Science & AI
+### 🟪 Data Science & AI
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-### 🔹 Frameworks & Web Development
+### 🟪 Frameworks & Web Development
 
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=React&logoColor=blue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-54824a?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -43,7 +43,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
-### 🔹 DevOps & Tools
+### 🟪 DevOps & Tools
 
 ![Git](https://img.shields.io/badge/-Git-ec502c?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
