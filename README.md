@@ -11,18 +11,7 @@
 ✉️ Let's connect! Shoot me an email at **kennyzhuye@hotmail.com**, and let's create something extraordinary together!
 
 ---
-<div>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=K3nnyZY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Kenny Zhu" />
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3nnyZY&layout=donut&theme=midnight-purple)
-<p align="center">
-    <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=K3nnyZY&column=-1&theme=dracula&layout=compact"width="95%"/> 
-</p>
-
-
+| <a href="https://github.com/K3nnyZY/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K3nnyZYa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="K3nnyZY's github stats" /></a> | <a href="https://github.com/K3nnyZY/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nnyZY&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ## 🛠 &nbsp;Tech Stack
 
