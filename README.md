@@ -13,8 +13,15 @@
 ---
 <div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=K3nnyZY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="K3nnyZY" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=K3nnyZY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Kenny Zhu" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3nnyZY&layout=donut&theme=midnight-purple)
+<p align="center">
+    <a href="https://github.com/jrohitofficial/jrohitofficial">
+        <img src="https://github-profile-trophy.vercel.app/?username=K3nnyZY&column=-1&theme=dracula&layout=compact"width="95%"/> 
+</p>
+
 
 
 ## 🛠 &nbsp;Tech Stack
