@@ -10,9 +10,6 @@
 
 ✉️ Let's connect! Shoot me an email at **kennyzhuye@hotmail.com**, and let's create something extraordinary together!
 
----
-| <a href="https://github.com/K3nnyZY/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K3nnyZY&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="K3nnyZY's github stats" /></a> | <a href="https://github.com/K3nnyZY/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nnyZY&layout=compact&theme=buefy&hide_border=true" /></a> 
-
 ## 🧑🏻‍💻 &nbsp;Tech Stack
 
 ### 🟪 Programming Languages
